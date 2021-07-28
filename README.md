@@ -9,3 +9,4 @@ This project is made using Django Framework with allauth login features and many
 ![6](https://user-images.githubusercontent.com/60030361/127399228-8f39d3ee-eb98-46ba-8281-b145ad3727f6.JPG)
 ![7](https://user-images.githubusercontent.com/60030361/127398780-5635a38f-102a-4aaf-936b-b99311d4c5ee.JPG)
 ![8](https://user-images.githubusercontent.com/60030361/127399544-fe2b150d-588f-4024-a00d-c972fc3e561f.JPG)
+![9](https://user-images.githubusercontent.com/60030361/127399653-bee2a944-ff1f-4ec9-bda0-3ad9bc845800.JPG)
