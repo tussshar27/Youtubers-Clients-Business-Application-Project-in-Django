@@ -1,7 +1,7 @@
 
-# Project Title
+# Youtubers-Clients Business Web Application
 
-A brief description of what this project does and who it's for
+A full-stack web app that helps to make brand deals with the client's desired YouTubers.
 
 
 # Hi, I'm Tushar Annam! 👋
